@@ -82,7 +82,7 @@ def detail_club(request):
     elif request == "boys basketball":
         print("\nTeacher: Coach Winitana \nTime: 6:00 - 7:30 AM \nDate: Monday - Thursday \nLocation: Patriot Arena \nContact: pwinitana@ahsmail.com   \n")
     elif request == "shut up" or request == "shutup":
-        print("Thats not very nice.")
+        print("That's not very nice.")
         sys.exit()
     elif request == "mixed baseball":
         print("\nTeacher: Blake Jansen \nTime: Varies \nDate: Varies \nLocation: Baseball Field \nContact: bjansen@ahsmail.com \n")
